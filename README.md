@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently building software for startups and building capacity so most things are private, bear with me🤞
+
 <!--
 **DebayoTomisin/DebayoTomisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
