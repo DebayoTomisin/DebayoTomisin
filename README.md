@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently building software for startups and building capacity so most things are private, bear with me🤞
+🔭 I’m currently building software for startups. On the journey to self-discovery, so most things are private (for now), bear with me🤞  but you can reach me at debayotomisin07@gmail.com 📫
 
 🌱 I’m currently learning Behavioural driven development, React Native and system design. I'm also incoperating principles that can make a part of the pragmatic programmer circle💻
 
