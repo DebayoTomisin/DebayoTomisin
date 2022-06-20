@@ -2,7 +2,7 @@
 
 🔭 I’m currently building software for startups. On the journey to self-discovery, so most things are private (for now), bear with me🤞  but you can reach me at debayotomisin07@gmail.com 📫
 
-🌱 I’m currently learning Behavioural driven development, React Native and system design. I'm also incoperating principles that can make a part of the pragmatic programmer circle💻
+🌱 I’m on the path to being a top engineer. I'm also incoperating principles that can make a part of the pragmatic programmer circle💻
 
 <!--
 **DebayoTomisin/DebayoTomisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
