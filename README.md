@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently building software for startups. On the journey to self-discovery, so most things are private (for now), bear with me🤞  but you can reach me at debayotomisin07@gmail.com 📫
+✌🏻 I am a senior software engineer focusing on building client facing iterfaces and products.
 
-🌱 I’m on the path to being a top engineer. I'm also incoperating principles that can make a part of the pragmatic programmer circle💻
+🔭 I’m currently building software for startups. You can reach me at debayotomisin07@gmail.com 📫
+
+🌱 I like to consider myslef a pragmatic engineer💻, whatever I build has the end users as the goal 🥅 .
+
+🙃 Open to any opportunities. 
 
 <!--
 **DebayoTomisin/DebayoTomisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
